@@ -7,3 +7,7 @@ As an additional benefit, this repository also will be maintained purely through
 ## More Testing with Command Line Git
 
 It would appear that using git through the command line is actually better/easier than using the GUI. Not a giant surprise, but still worth noting if there is someone out there too afraid to venture deeper into the bash/shell only universe.
+
+## GPG Keys and other thing
+
+After having to fight with bash to Github problems, I have now created a GPG key for this machine. This should allow me to sign my commits, making it seem like I was editing through the web GUI. Maybe I'm totally wrong on that. This paragraph was added to test what, if any, changes I've made to my authentication method.
